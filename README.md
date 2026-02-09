@@ -34,4 +34,4 @@ python bitcoin.py <number_of_bitcoins>
 
 Example
 python bitcoin.py 2.5
-# Output: 2.5 Bitcoins = $97,123.4567
+Output: 2.5 Bitcoins = $97,123.4567
